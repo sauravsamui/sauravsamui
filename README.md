@@ -3,7 +3,7 @@
 <h3 align="center">
 Aspiring Full-Stack Web Developer with hands-on experience in frontend as well as in backend. Eager to learn new skills and help the organization in the development and deployment of websites. Trained in  MERN stack as well as good in data structure and algorithms.
 </h3>
-<img align="right" alt="Coding" width="900" height="450" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fhow-can-developer-improve-skill-developing-mahim-hossain&psig=AOvVaw1E5IMvk88NU4UJLxC9tCi7&ust=1729058289143000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOimuZ_aj4kDFQAAAAAdAAAAABAJ"/>
+<img align="right" alt="Coding" width="900" height="450" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravsamui&label=Profile%20views&color=0e75b6&style=flat" alt="sauravsamui" /> </p>
 
