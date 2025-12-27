@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi <img width="41" alt="handwave" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"/>, I'm Saurav Samui</h1>
 <h3 align="center">
-Aspiring Full-Stack Web Developer with hands-on experience in frontend as well as in backend. Eager to learn new skills and help the organization in the development and deployment of websites. Trained in  MERN stack as well as good in data structure and algorithms.
+Full-Stack Web Developer with hands-on experience in frontend as well as in backend. Eager to learn new skills and help the organization in the development and deployment of websites. Trained in  MERN stack as well as good in data structure and algorithms.
 </h3>
 <img align="right" alt="Coding" width="900" height="450" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0"/>
 
